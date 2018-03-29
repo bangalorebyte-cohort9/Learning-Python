@@ -1,0 +1,8 @@
+date open price close price
+10 march 1000 2000
+11 march 1010 2100
+12 march 1020 2200
+13 march 1030 2300
+14 march 1040 2400
+15 march 1050 2500
+16 march 1060 2600
